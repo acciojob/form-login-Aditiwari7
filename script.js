@@ -1,7 +1,7 @@
 function getFormvalue() {
     //Write your code here
 
-	var form = document.querySelector("form1");
+	var form = document.querySelector("form");
 
 	form.addEventListener("submit", function(event){
 		event.preventDefault();
